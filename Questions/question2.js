@@ -1,3 +1,4 @@
+// ###### Question 2 ######
 (function () {
   var a = (b = 3);
 })();
